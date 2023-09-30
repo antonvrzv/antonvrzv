@@ -12,7 +12,7 @@
 I'm a Software Engineer :computer: from Russia, Novosibirsk :round_pushpin:
 - :desktop_computer:  I've been developing network and system software for service routers based on the Linux kernel for more than 5 years.
 - :man_student: In my free time I study the basics of computer science and English.
-- How to contact me :arrow_right: antonvorozhischev@gmail.com
+- :mailbox: How to contact me :arrow_right: antonvorozhischev@gmail.com
 ---
 
 ### :earth_americas:  Socials :
